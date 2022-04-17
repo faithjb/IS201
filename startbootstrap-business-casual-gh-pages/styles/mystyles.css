@@ -1,0 +1,21 @@
+body{
+    background-image: url(../images/bridge.jpg) ;
+}
+
+.indextitle{
+    font-weight:bold;
+    color: black;}
+
+.resumebg{background-image: url(../images/fmview.jpeg);}
+
+.font{text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.fcolor{color: black;}
+
+.fsize{font-size: large;}
+
+.textfont{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.bttop{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: black;}
+
+.sechead{font-size:xx-large;}

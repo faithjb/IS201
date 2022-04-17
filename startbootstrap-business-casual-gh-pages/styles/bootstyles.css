@@ -1,0 +1,46 @@
+.fontalign{text-align: center;}
+
+.buttontxt{
+    text-align: left; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: medium;
+}
+
+.navbar{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 90px;
+    border: solid gray;
+    background-color: gray;
+    position: relative;
+}
+
+.mainbody{
+     top: 100px;
+     bottom: 45px;
+     left: 5px;
+     right: 5px;
+     background-color: lightskyblue;
+     position: relative;
+}
+
+.fontsize{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.footer{
+    bottom: 5px;
+    height: 25px;
+    left: 5px;
+    right: 5px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    position: fixed;
+    background-color:  gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
